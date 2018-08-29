@@ -1,0 +1,30 @@
+Human Rights Protocols Considerations (hrpc) research group sessions at #IETF96 9:30 UTC+9, November 14 2016
+
+- Beginning (5 min)
+	Jabber scribe, note takers
+	Agenda Bashing
+	Notewell
+	Introduction
+- Status of research group & documents (2 min)
+- Context of research (5 mins)
+- Presentation + Q&A - Geoffrew Bowker on Infrastructure and Human Rights (20 mins)
+- Discussion of draft-irtf-hrpc-research  (60 mins)
+	https://tools.ietf.org/html/draft-irtf-hrpc-research
+	- process update by document sherpherd (Avri Doria)
+	- content update by document authors (Niels ten Oever, Corinne Cath)
+		- review & changes
+		- anonymity as aspirational goal
+		- internationalization
+		- protocols are political
+	- next steps
+- Human Rights in other Internet Governance Bodies
+	- Documents
+	- ICANN
+	- IEEE
+- Open discussion other drafts, papers, ideas
+- Next steps (5 min)
+- AOB
+
+
+
+

@@ -1,0 +1,34 @@
+Human Rights Protocols Considerations (hrpc) research group sessions at #IETF100, 9:30, November 17 2017
+
+- Beginning (5 min)
+	Jabber scribe, note takers
+	Agenda Bashing
+	Notewell
+	Introduction
+
+- Status of research group & documents
+
+- Context of research
+
+- Presentation + Q&A - Human Rights and Civil Liberties in the Internet RFCs, 1969-1979 and On
+- Discussion of draft-tenoever-hrpc-association-02
+
+- Discussion of draft-tenoever-hrpc-political-02
+
+- Discussion of draft-tenoever-hrpc-anonymity-01
+
+- Discussion of draft-tenoever-hrpc-unrequested-00
+
+- Discussion of draft-tenoever-hrpc-guidelines-00 
+
+- Errata to RFC 7725 + draft-new-protocol-elements-451+ HR considerations
+
+- Update on progress on human rights considerations  
+
+- Discussion on way forward
+
+- Presentation + Q&A - Chainiac: end-to-end software supply chain security and transparency 
+
+- Open discussion other drafts, papers, ideas
+
+- AOB

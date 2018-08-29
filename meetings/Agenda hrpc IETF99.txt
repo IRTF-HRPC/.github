@@ -1,0 +1,22 @@
+Human Rights Protocols Considerations (hrpc) research group sessions at #IETF99, $TIME, $DATE
+
+- Beginning (5 min)
+	Jabber scribe, note takers
+	Agenda Bashing
+	Notewell
+	Introduction
+- Status of research group & documents (2 min)
+- Context of research (2 mins)
+- Presentation + Q&A - Milton Mueller - Requiem for a Dream: on advancing human rights through internet architecture (50 mins)
+- Discussion of draft-tenoever-hrpc-anonymity-01 (15 mins)
+- Discussion of draft-tenoever-hrpc-association-01 (15 mins)
+- Discussion of draft-tenoever-hrpc-political-00 (15 mins)
+- Report back on Hackathon on HTTP status code 451 + HR considerations (10 mins)
+- Update (and perhaps discussion) on the status of draft-irtf-hrpc-research (5 mins)
+- Open discussion other drafts, papers, ideas (5 mins)
+- Next steps (5 min)
+- AOB
+
+
+
+
