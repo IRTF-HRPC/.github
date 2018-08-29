@@ -43,16 +43,4 @@ A participant in any IETF activity is deemed to accept all IETF rules of process
 
 A participant in any IETF activity acknowledges that written, audio and video records of meetings may be made and may be available to the public.
 
-# Building drafts for HRPC
-
-Install dependencies:
-
-      # apt install ruby-kramdown-rfc2629 xml2rfc
-
-Draft editing workflow:
-
-      $EDITOR draft-glossary.md
-      make
-
-
 [0] https://www.irtf.org/mailman/listinfo/hrpc
