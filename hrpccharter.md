@@ -20,7 +20,7 @@ Furthermore HRPC researches how protocols can influence policy concerns, and vic
 
 ## Objectives
 
- * To expose the relations between protocols and values, with a focus on the human rights framework.
+ * To expose the relations between protocols and values, with a focus on the human rights framework, such as the policy implications of technology choices and the technical implications of policy choices.
  * To propose guidelines to protect the Internet as a human-rights-enabling environment and a global public good in future protocol development.
  * To increase the awareness in both the policy community and the technical community on the importance of the technical workings of the Internet and its impact on human rights and the public interest.
 
