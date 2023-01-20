@@ -4,7 +4,7 @@
 
 The research group takes as its starting point the problem statement that human-rights-enabling characteristics of the Internet might be degraded if they are not properly defined, described and sufficiently taken into account in protocol and standarization development. Not protecting these characteristics could result in (partial) loss of functionality and connectivity.
 
-Moreover it is widely accepted that technical design decisions about the Internet are not value neutral [RFC3935] and can have lasting impacts on public policy and individual rights.
+Moreover it is widely accepted that technical design decisions about the Internet are not value neutral [RFC3935] and can have lasting impacts on public policy and individual human rights.
 
 As evinced by RFC 1958, the Internet aims to be the global network of networks that provides unfettered connectivity to all users at all times and for any content. Open, secure and reliable connectivity is essential for rights such as freedom of expression and freedom of association. Since the Internet’s objective of connectivity makes it an enabler of human rights, its architectural design converges with the human rights framework.
 
