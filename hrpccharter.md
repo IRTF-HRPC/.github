@@ -6,7 +6,7 @@ The research group takes as its starting point the problem statement that human-
 
 Moreover it is widely accepted that technical design decisions about the Internet are not value neutral [RFC3935] and can have lasting impacts on public policy and individual human rights.
 
-As evinced by RFC 1958, the Internet aims to be the global network of networks that provides unfettered connectivity to all users at all times and for any content. Open, secure and reliable connectivity is essential for rights such as freedom of expression and freedom of association. Since the Internet’s objective of connectivity makes it an enabler of human rights, its architectural design converges with the human rights framework.
+As evinced by RFC 1958, the Internet aims to be the global network of networks that provides unfettered connectivity to all users at all times and for any content. Open, secure and reliable connectivity is essential for rights such as freedom of expression and freedom of association. Since the Internet’s objective of connectivity makes it an enabler of human rights, its architectural design considerations converge with the human rights framework. 
 
 This research group aims to explore the relations between Internet architecture and human rights and to provide guidelines to inform future protocol development and decision making where protocols impact or are informed by policies that serve the public interest and protect human rights.
 
