@@ -28,9 +28,9 @@ Furthermore HRPC researches how protocols can influence policy concerns, and vic
 
 The research group plans on using a variety of research methods to create different outputs including, but not limited to:
 
- * Internet drafts, some of which may be put on IRTF RFC stream. These will concern progress of the project, methodology, and will define any possible protocol considerations.
- * Policy and academic papers, for in-depth analysis and discussion of the values embedded in the Internet architecture.
- * Data analysis and visualization, to research and visualize the language used in current and historic RFCs and mailinglist discussions to expose core architectural principles, language and deliberations on values of those affected by the network.
+ * Internet drafts, some of which may be put in IRTF RFC stream. These will concern progress of the project, methodology, and will define any possible protocol considerations.
+ * Policy and research papers of in-depth analysis, discussion and review of the values embedded in the Internet architecture, for publication elsewhere.
+ * Data analysis and visualization to research and visualize the language used in current and historic RFCs and mailinglist discussions to expose core architectural principles, language and deliberations on values of those affected by the network.
  * Protocol analysis. Data analysis and visualization of (existing) protocols to research their concrete impact on human rights and the public interest.
 
 ## Membership
