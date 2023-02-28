@@ -1,5 +1,7 @@
 # Human Rights and Policy Considerations
 
+This research group aims to explore the relations between Internet architecture and human rights. It also aims to provide guidance to future protocol development and decision making where protocols impact or are informed by policies that serve the public interest and protect human rights.
+
 ## Background
 
 The research group takes as its starting point the problem statement that human-rights-enabling characteristics of the Internet might be degraded if they are not properly defined, described and sufficiently taken into account in protocol and standarization development. Not protecting these characteristics could result in (partial) loss of functionality and connectivity.
@@ -7,8 +9,6 @@ The research group takes as its starting point the problem statement that human-
 Moreover it is widely accepted that technical design decisions about the Internet are not value neutral and can have lasting impacts on public policy and individual human rights.
 
 The Internet aims to be the global network of networks that provides unfettered connectivity to all users at all times and for any content. Open, secure and reliable connectivity is essential for rights such as freedom of expression and freedom of association. Since the Internet’s objective of connectivity intersects with human rights, its architectural design considerations converge with the human rights framework.
-
-This research group aims to explore the relations between Internet architecture and human rights. It also aims to provide guidance to future protocol development and decision making where protocols impact or are informed by policies that serve the public interest and protect human rights.
 
 ## Research question
 
