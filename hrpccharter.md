@@ -35,6 +35,8 @@ The research group plans on using a variety of research methods to create differ
  * Research papers concerning both policy and academic topics which can include in-depth analysis, discussions and review of the values embedded in the Internet architecture, for publication elsewhere.
  * Protocol analysis. Data analysis and visualization of (existing) protocols to research their concrete impact on human rights and the public interest.
 
+HRPC research group does not set policy for the IETF.
+
 ## Membership
 
 Membership is open to any interested parties who intend to remain current with the published documents and mailing list issues.
