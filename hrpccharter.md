@@ -16,7 +16,9 @@ How are human rights and public interest policy considered in the development of
 
 The Human Rights and Policy Considerations Research Group is chartered to research of protocol development that is responsible towards and mindful of the human rights of others and whether standards and protocols can enable, strengthen or threaten human rights, as defined in the Universal Declaration of Human Rights (UDHR) [1] and the International Covenant on Civil and Political Rights (ICCPR) [2].
 
-Furthermore HRPC researches how protocols can influence policy concerns that intersect with human rights, and vice versa. This research group is a discursive resource for the community to ensure the development process fully recognizes these potential public policy impacts, addresses those impacts adequately, and builds evidence and guidance for policy makers on technical solutions and the necessary design tradeoffs that should be made. The Global Data Protection Regulation [3], principles of necessity and proportionality of surveillance [4], are examples of policy developments that have led to rich areas of work for the IETF through the PEARG and more such regulatory actions are expected as the digital age progresses.
+Furthermore HRPC researches how protocols can influence policy concerns that intersect with human rights, and vice versa. This research group is a discursive resource for the community to ensure the development process fully recognizes these potential public policy impacts, addresses those impacts adequately, and builds evidence and guidance for policy makers on technical solutions and the necessary design tradeoffs that should be made. The Global Data Protection Regulation [3], principles of necessity and proportionality of surveillance [4], are examples of policy developments that have led to rich areas of work for the IETF through the Privacy Enhancements and Assessments research group (PEARG) and more such regulatory actions are expected as the digital age progresses.
+
+HRPC collaborates with other research groups: PEARG and privacy as a human right, Global Access to the Internet for All on second-generation equity rights, and with RASPRG on analysing how discussion of core architectural principles make value judgements.
 
 ## Objectives
 
@@ -31,7 +33,6 @@ The research group plans on using a variety of research methods to create differ
 
  * Internet drafts, some of which may be put in IRTF RFC stream. These will concern progress of the project, methodology, and will define any possible protocol considerations.
  * Research papers concerning both policy and academic topics which can include in-depth analysis, discussions and review of the values embedded in the Internet architecture, for publication elsewhere.
- * Data analysis and visualization to research and visualize the language used in current and historic RFCs and mailing-list discussions to expose core architectural principles, language and deliberations on values of those affected by the network.
  * Protocol analysis. Data analysis and visualization of (existing) protocols to research their concrete impact on human rights and the public interest.
 
 ## Membership
