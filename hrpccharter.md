@@ -1,6 +1,6 @@
 # Human Rights and Policy Considerations
 
-This research group aims to explore the relations between Internet architecture and human rights. It also aims to provide guidance to future protocol development and decision making where protocols impact or are informed by policies that serve the public interest and protect human rights.
+This research group aims to explore the relationship between Internet architecture and human rights for a wide audience. Where protocols impact or are informed by policies that serve the public interest and protect human rights, it aims to provide guidance on design tradeoffs in protocol development and for a technical audience and build evidence for decision making for policy makers and advocates.
 
 ## Background
 
@@ -16,7 +16,7 @@ How are human rights and public interest policy considered in the development of
 
 The Human Rights and Policy Considerations Research Group is chartered to research of protocol development that is responsible towards and mindful of the human rights of others and whether standards and protocols can enable, strengthen or threaten human rights, as defined in the Universal Declaration of Human Rights (UDHR) [1] and the International Covenant on Civil and Political Rights (ICCPR) [2].
 
-Furthermore HRPC researches how protocols can influence policy concerns that intersect with human rights, and vice versa. This research group is a discursive resource for the community to ensure the development process fully recognizes these potential public policy impacts, addresses those impacts adequately, and builds evidence and guidance for policy makers on technical solutions and the necessary design tradeoffs that should be made. The Global Data Protection Regulation [3], principles of necessity and proportionality of surveillance [4], are examples of policy developments that have led to rich areas of work for the IETF through the Privacy Enhancements and Assessments research group (PEARG) and more such regulatory actions are expected as the digital age progresses.
+Furthermore HRPC researches how protocols can influence policy concerns that intersect with human rights, and vice versa. This research group is a discursive resource for the community to support the development process in recognizing these potential public policy impacts as well assist to address those impacts adequately. The Global Data Protection Regulation [3], principles of necessity and proportionality of surveillance [4], are examples of policy developments that have led to rich areas of work for the IETF through the Privacy Enhancements and Assessments research group (PEARG) and more such regulatory actions are expected as the digital age progresses.
 
 HRPC collaborates with other research groups: PEARG and privacy as a human right, Global Access to the Internet for All on second-generation equity rights, and with RASPRG on analysing how discussion of core architectural principles make value judgements.
 
@@ -24,7 +24,7 @@ HRPC collaborates with other research groups: PEARG and privacy as a human right
 
  * To expose the relations between protocols and values, with a focus on the human rights framework, such as the policy implications of technology choices and the technical implications of policy choices.
  * To suggest guidelines to protect the Internet as a human-rights-enabling environment and a global public good in future protocol development.
- * To increase the awareness in both the policy community and the technical community on the importance of the technical workings of the Internet and its impact on human rights and the public interest.
+ * To increase the awareness in both the human rights community and the technical community on the importance of the technical workings of the Internet and its impact on human rights and the public interest.
 * To create a place for discussions and analysis on the relationship between protocol development, and their human rights and policy implications by, among other mechanisms, serving as a bridge between the human rights community and the protocols-development one.
 
 ## Outputs
