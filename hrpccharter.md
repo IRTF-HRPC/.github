@@ -1,6 +1,6 @@
 # Human Rights and Policy Considerations
 
-This research group aims to explore the relations between Internet architecture and human rights. It also aims to provide guidance to future protocol development and decision making where protocols impact or are informed by policies that serve the public interest and protect human rights.
+This research group aims to explore the relationship between Internet architecture and human rights for a wide audience. Where protocols impact or are informed by policies that serve the public interest and protect human rights, it aims to provide guidance on design tradeoffs in protocol development and for a technical audience and build evidence for decision making for policy makers and advocates.
 
 ## Background
 
