@@ -4,7 +4,7 @@ This research group aims to explore the relationship between Internet architectu
 
 ## Background
 
-The research group takes as its starting point the problem statement that human-rights-enabling characteristics of the Internet might be degraded if they are not properly defined, described and sufficiently taken into account in protocol and standarization development. Not protecting these characteristics could result in (partial) loss of functionality and connectivity.
+The research group takes as its starting point the problem statement that human-rights-enabling characteristics of the Internet might be degraded if they are not properly defined, described and sufficiently taken into account in protocol and standardization development. Not protecting these characteristics could result in (partial) loss of functionality and connectivity.
 
 Moreover it is widely accepted that technical design decisions about the Internet are not value neutral and can have lasting impacts on public policy and individual human rights.
 
