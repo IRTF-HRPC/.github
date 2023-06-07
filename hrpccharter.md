@@ -25,7 +25,7 @@ HRPC collaborates with other research groups: PEARG and privacy as a human right
  * To expose the relations between protocols and values, with a focus on the human rights framework, such as the policy implications of technology choices and the technical implications of policy choices.
  * To suggest guidelines to protect the Internet as a human-rights-enabling environment and a global public good in future protocol development.
  * To increase the awareness in both the human rights community and the technical community of the importance of the technical workings of the Internet and its impact on human rights and the public interest.
-* To create a place for discussions and analysis on the relationship between protocol development, and their human rights and policy implications by, among other mechanisms, serving as a bridge between the human rights community and the protocols-development one.
+* To create a place for discussions and analysis of the relationship between protocol development, and their human rights and policy implications by, among other mechanisms, serving as a bridge between the human rights community and the protocols' development one.
 
 ## Outputs
 
@@ -33,7 +33,7 @@ The research group plans on using a variety of research methods to create differ
 
  * Internet drafts, some of which may be put in IRTF RFC stream. These will concern progress of the project, methodology, and will define any possible protocol considerations.
  * Research papers concerning both policy and academic topics which can include in-depth analysis, discussions and review of the values embedded in the Internet architecture, for publication elsewhere.
- * Protocol analysis. Data analysis and visualization of (existing) protocols to research their concrete impact on human rights and the public interest.
+ * Protocol analysis, which can include data analysis and visualization of (existing) protocols to research their concrete impact on human rights and the public interest.
 
 HRPC research group does not set policy for the IETF.
 
