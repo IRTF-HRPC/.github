@@ -14,7 +14,7 @@ The Internet aims to be the global network of networks that provides unfettered 
 
 How are human rights and public interest policy considered in the development of the Internet?
 
-The Human Rights and Policy Considerations Research Group is chartered to research of protocol development that is responsible towards and mindful of the human rights of others and whether standards and protocols can enable, strengthen or threaten human rights, as defined in the Universal Declaration of Human Rights (UDHR) [1] and the International Covenant on Civil and Political Rights (ICCPR) [2].
+The Human Rights and Policy Considerations Research Group is chartered to research on protocol development that is responsible towards and mindful of the human rights of others and whether standards and protocols can enable, strengthen or threaten human rights, as defined in the Universal Declaration of Human Rights (UDHR) [1] and the International Covenant on Civil and Political Rights (ICCPR) [2].
 
 Furthermore HRPC researches how protocols can influence policy concerns that intersect with human rights, and vice versa. This research group is a discursive resource for the community to support the development process in recognizing these potential public policy impacts as well assist to address those impacts adequately. The Global Data Protection Regulation [3], principles of necessity and proportionality of surveillance [4], are examples of policy developments that have led to rich areas of work for the IETF through the Privacy Enhancements and Assessments research group (PEARG) and more such regulatory actions are expected as the digital age progresses.
 
@@ -24,7 +24,7 @@ HRPC collaborates with other research groups: PEARG and privacy as a human right
 
  * To expose the relations between protocols and values, with a focus on the human rights framework, such as the policy implications of technology choices and the technical implications of policy choices.
  * To suggest guidelines to protect the Internet as a human-rights-enabling environment and a global public good in future protocol development.
- * To increase the awareness in both the human rights community and the technical community on the importance of the technical workings of the Internet and its impact on human rights and the public interest.
+ * To increase the awareness in both the human rights community and the technical community of the importance of the technical workings of the Internet and its impact on human rights and the public interest.
 * To create a place for discussions and analysis on the relationship between protocol development, and their human rights and policy implications by, among other mechanisms, serving as a bridge between the human rights community and the protocols-development one.
 
 ## Outputs
