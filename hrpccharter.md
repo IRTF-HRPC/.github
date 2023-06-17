@@ -12,7 +12,13 @@ The Internet aims to be the global network of networks that provides unfettered 
 
 ## Research question
 
-How are human rights and public interest policy considered in the development of the Internet?
+Our main research question is: "How are human rights and public interest policy considered in the development of the Internet?"
+
+We also seek to ask (in no specific order): 
+
+- What are established models for evaluating these considerations and how do they can potentially apply to Internet standards development?
+- Which human rights are strengthened and which are weakened by a given protocol's design decision?
+- Which protocol's design decisions benefit from a established model that evaluates human rights and public interest policy considerations?
 
 The Human Rights and Policy Considerations Research Group is chartered to research on protocol development that is responsible towards and mindful of the human rights of others and whether standards and protocols can enable, strengthen or threaten human rights, as defined in the Universal Declaration of Human Rights (UDHR) [1] and the International Covenant on Civil and Political Rights (ICCPR) [2].
 
