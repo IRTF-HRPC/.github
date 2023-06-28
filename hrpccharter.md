@@ -24,7 +24,7 @@ The Human Rights and Policy Considerations Research Group is chartered to resear
 
 Furthermore HRPC researches how protocols can influence policy concerns that intersect with human rights, and vice versa. This research group is a discursive resource for the community to support the development process in recognizing these potential public policy impacts as well assist to address those impacts adequately. The Global Data Protection Regulation [3], principles of necessity and proportionality of surveillance [4], are examples of policy developments that have led to rich areas of work for the IETF through the Privacy Enhancements and Assessments research group (PEARG) and more such regulatory actions are expected as the digital age progresses.
 
-HRPC collaborates with other research groups: PEARG and privacy as a human right, Global Access to the Internet for All on second-generation equity rights, and with RASPRG on analysing how discussion of core architectural principles make value judgements.
+HRPC collaborates with other research groups: PEARG and privacy as a human right, Global Access to the Internet for All (GAIA) on second-generation equity rights, with Research and Analysis of Standard-Setting Processes research group (RASPRG) on analysing how discussion of core architectural principles make value judgements, and with the Measurement and Analysis for Protocols Research Group (MAPRG) on data analysis and visualization.
 
 ## Objectives
 
