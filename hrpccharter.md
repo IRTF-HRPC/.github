@@ -18,11 +18,11 @@ We seek to ask (in no specific order):
 
 - What are established models for evaluating these considerations and how do they potentially apply to Internet standards development?
 - Which human rights are strengthened and which are weakened by a given protocol's design decision?
-- Which protocol's design decisions benefit from a established model that evaluates human rights and public interest policy considerations?
+- Which protocol's design decisions benefit from an established model that evaluates human rights and public interest policy considerations?
 
-The HRPC RG is chartered to research protocol development that is responsible towards and mindful of the human rights, and to explore whether standards and protocols can enable, strengthen or threaten human rights, as defined in the Universal Declaration of Human Rights (UDHR) [1] and the International Covenant on Civil and Political Rights (ICCPR) [2].
+The HRPC RG is chartered to research protocol development that is responsible towards and mindful of human rights, and to explore whether standards and protocols can enable, strengthen or threaten human rights, as defined in the Universal Declaration of Human Rights (UDHR) [1] and the International Covenant on Civil and Political Rights (ICCPR) [2].
 
-Furthermore HRPC researches how protocols can influence policy concerns that intersect with human rights, and vice versa. This research group is a discursive resource for the community to support the protocol development process in recognizing these potential public policy impacts, as well as assist to address those impacts adequately. The Global Data Protection Regulation [3], the principles of necessity and proportionality of surveillance [4] are examples of policy developments that have led to rich areas of work for the IETF through the Privacy Enhancements and Assessments Research Group (PEARG). More similar regulatory actions are expected as the digital age progresses.
+Furthermore, HRPC researches how protocols can influence policy concerns that intersect with human rights, and vice versa. This research group is a discursive resource for the community to support the protocol development process in recognizing these potential public policy impacts, as well as assist to address those impacts adequately. The Global Data Protection Regulation [3], the principles of necessity and proportionality of surveillance [4] are examples of policy developments that have led to rich areas of work for the IETF through the Privacy Enhancements and Assessments Research Group (PEARG). More similar regulatory actions are expected as the digital age progresses.
 
 HRPC RG collaborates with other research groups: with Privacy Enhancements and Assessments Research Group (PEARG) on privacy as a human right, with Global Access to the Internet for All (GAIA) on second-generation equity rights, with Research and Analysis of Standard-Setting Processes Research Group (RASPRG) on analysing how discussion of core architectural principles make value judgements, and with the Measurement and Analysis for Protocols Research Group (MAPRG) on data analysis and visualization.
 
@@ -30,15 +30,15 @@ HRPC RG collaborates with other research groups: with Privacy Enhancements and A
 
  * To expose the relations between protocols and human rights values, with a focus on the human rights framework, such as the policy implications of technology choices and the technical implications of policy choices.
  * To suggest guidelines to protect the Internet as a human-rights-enabling environment and a global public good in future protocol development.
- * To increase the awareness in both the human rights community and the technical community of the importance of the Internet's technical workings, and their impact on human rights and the public interest.
-* To create a place for discussions and analysis of the relationship between protocol development, and their human rights and policy implications by, among other mechanisms, serving as a bridge between the human rights and the protocols development communities.
+ * To increase awareness in both the human rights community and the technical community of the importance of the Internet's technical workings, and their impact on human rights and the public interest.
+* To create a place for discussions and analysis of the relationship between protocol development, and their human rights and policy implications by, among other mechanisms, serving as a bridge between the human rights and the protocol's development communities.
 
 ## Outputs
 
 The research group plans on using a variety of research methods to create different outputs including, but not limited to:
 
- * Internet-Drafts, some of which may be published in IRTF RFC stream. These will concern progress of the research group, will described methodologies considered, and will define any possible protocol considerations.
- * Research papers for publication elsewhere concerning both policy and academic topics which can include in-depth analysis, discussions and review of the values embedded in the Internet architecture.
+ * Internet-Drafts, some of which may be published in IRTF RFC stream. These will concern progress of the research group, will describe methodologies considered, and will define any possible protocol considerations.
+ * Research papers for publication elsewhere concerning both policy and academic topics, which can include in-depth analysis, discussions and review of the values embedded in the Internet architecture.
  * Protocol analysis to research their concrete impact on human rights and the public interest.
 
 Note that the HRPC research group does not set policy for the IETF.
