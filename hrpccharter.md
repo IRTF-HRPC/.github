@@ -34,7 +34,8 @@ design considerations overlap with the human rights framework.
 ## Research question
 
 Our main research question is: "How are human rights and public interest
-policy considered during the development of the Internet?"
+policy (as a cross section of public policy focused on human rights) considered
+during the development of the Internet?"
 
 We seek to ask (in no specific order):
 
@@ -67,11 +68,11 @@ digital age progresses.
 
 HRPC collaborates with other research groups: with Privacy Enhancements
 and Assessments Research Group (PEARG) on privacy as a human right, with
-Global Access to the Internet for All (GAIA) on second-generation equity
-rights, with Research and Analysis of Standard-Setting Processes Research
-Group (RASPRG) on analysing how discussion of core architectural principles
-make value judgements, and with the Measurement and Analysis for Protocols
-Research Group (MAPRG) on data analysis and visualization.
+Global Access to the Internet for All (GAIA), with Research and Analysis of
+Standard-Setting Processes Research Group (RASPRG) on analysing how discussion
+of core architectural principles make value judgements, and with the
+Measurement and Analysis for Protocols Research Group (MAPRG) on data analysis
+and visualization.
 
 ## Objectives
 
