@@ -1,14 +1,12 @@
 # Human Rights and Policy Considerations Research Group
 
-The Human Rights and Policy Considerations (HRPC) Research Group (RG) aims
+The Human Rights and Policy Considerations (HRPC) research group aims
 to explore and research the relationship between Internet architecture and
-human rights for a wide audience. It aims to inform the technical community
+human rights for a wide audience. The role of the research group is to promote
+understanding of this relationship so those making decisions can do so in an
+informed manner. It aims to inform the technical community
 of how the design of protocols impacts, and can be informed by, policies
-that serve the public interest and protect human rights. It also aims to
-inform policy makers and civil society groups of technical constraints that
-might impact policy choices. The role of the research group is to promote
-understanding of the issues so those making decisions can do so in an
-informed manner.
+that serve the public interest and the protection of human rights. It aims to make policy makers and civil society groups aware of the technical constraints that might impact policy choices.
 
 ## Background
 
@@ -104,7 +102,7 @@ different outputs including, but not limited to:
 
  * Research papers for publication elsewhere concerning both policy and
    academic topics, which can include in-depth analysis, discussions and
-   review of the values embedded in the Internet architecture.
+   review of the human rights values embedded in the Internet architecture.
 
  * Protocol analysis to research their concrete impact on human rights and
    the public interest.
