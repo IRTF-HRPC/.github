@@ -1,12 +1,13 @@
 # Human Rights and Policy Considerations Research Group
 
-The Human Rights and Policy Considerations (HRPC) research group aims
-to explore and research the relationship between Internet architecture and
-human rights for a wide audience. The role of the research group is to promote
-understanding of this relationship so those making decisions can do so in an
-informed manner. It aims to inform the technical community
-of how the design of protocols impacts, and can be informed by, policies
-that serve the public interest and the protection of human rights. It aims to make policy makers and civil society groups aware of the technical constraints that might impact policy choices.
+The Human Rights and Policy Considerations (HRPC) research group is chartered
+to research the relationship between Internet protocols and standards to
+human rights and public interest policy (as a cross section of public policy
+focused on human rights). The group specifically aims to research protocol
+developments that can impact or are mindful of human rights, and to explore
+whether standards and protocols can enable, strengthen or threaten human rights,
+as defined in the Universal Declaration of Human Rights (UDHR) [1] and
+the International Covenant on Civil and Political Rights (ICCPR) [2].
 
 ## Background
 
@@ -17,11 +18,6 @@ account in protocol and standards development. Not protecting these
 characteristics could result in (partial) loss of functionality and
 connectivity.
 
-Moreover, it is widely accepted that technical design decisions about the
-Internet are not value neutral and can have lasting impacts on public
-policy and individual human rights. Studying those impacts is one of the
-goals of this group.
-
 The Internet aims to be the global network of networks that provides
 unfettered connectivity to all users at all times and for any content.
 Open, secure, and reliable connectivity is essential for rights such as
@@ -29,11 +25,22 @@ freedom of expression and freedom of association. Since the Internet’s
 objective of connectivity intersects with human rights, its architectural
 design considerations overlap with the human rights framework.
 
+Moreover, it is widely accepted that technical design decisions about the
+Internet are not value neutral and can have impacts on public
+interest policy and individual human rights. 
+Further, the development and deployment of Internet protocols
+can influence public interest policy concerns
+that intersect with human rights. The Global Data Protection
+Regulation [3], the principles of necessity and proportionality of
+surveillance [4] are examples of policy developments that influenced the discussion
+in the IETF and IRTF, through the Privacy Enhancements and Assessments
+Research Group (PEARG). An increase in similar regulatory actions can currently
+be observed are expected grow as the digital age progresses.
+
 ## Research question
 
 Our main research question is: "How are human rights and public interest
-policy (as a cross section of public policy focused on human rights) considered
-during the development of the Internet?"
+policy considered during the development of Internet standards?"
 
 We seek to ask (in no specific order):
 
@@ -43,34 +50,17 @@ We seek to ask (in no specific order):
 - Which human rights are strengthened and which are weakened by a given
   protocol's design decision?
 
-- Which protocol's design decisions benefit from an established model that
+- Can protocol's design decisions benefit from an established model that
   evaluates human rights and public interest policy considerations?
 
-The Human Rights and Policy Considerations Research Group is chartered to
-research protocol development that is responsible towards and mindful of
-human rights, and to explore whether standards and protocols can enable,
-strengthen or threaten human rights, as defined in the Universal
-Declaration of Human Rights (UDHR) [1] and the International Covenant on
-Civil and Political Rights (ICCPR) [2].
+- How does the development and deployment of Internet protocols
+  influence public interest policy concerns that intersect with human rights, and vice versa?
 
-Furthermore, HRPC researches how protocols can influence policy concerns
-that intersect with human rights, and vice versa. This research group is a
-discursive resource for the community to support the protocol development
-process in recognizing these potential public policy impacts, as well as
-assist to address those impacts adequately. The Global Data Protection
-Regulation [3], the principles of necessity and proportionality of
-surveillance [4] are examples of policy developments that have led to rich
-areas of work for the IETF through the Privacy Enhancements and Assessments
-Research Group (PEARG). More similar regulatory actions are expected as the
-digital age progresses.
-
-HRPC collaborates with other research groups: with Privacy Enhancements
+HRPC has intersections with other research groups: with Privacy Enhancements
 and Assessments Research Group (PEARG) on privacy as a human right, with
-Global Access to the Internet for All (GAIA), with Research and Analysis of
-Standard-Setting Processes Research Group (RASPRG) on analysing how discussion
-of core architectural principles make value judgements, and with the
-Measurement and Analysis for Protocols Research Group (MAPRG) on data analysis
-and visualization.
+Global Access to the Internet for All (GAIA), and with Research and Analysis of
+Standard-Setting Processes Research Group (RASPRG) on analysing how the standards
+process is impacted by value judgements.
 
 ## Objectives
 
@@ -81,33 +71,23 @@ and visualization.
  * To suggest guidelines to protect the Internet as a human-rights-enabling
    environment and a global public good in future protocol development.
 
- * To increase awareness in both the human rights community and the
+ * To increase awareness in both the human rights research community and the
    technical community of the importance of the Internet's technical
    workings, and their impact on human rights and the public interest.
 
  * To create a place for discussions and analysis of the relationship
-   between protocol development, and their human rights and policy
+   between protocol development, and their human rights and public interest policy
    implications by, among other mechanisms, serving as a bridge between
-   the human rights and the protocol's development communities.
+   the human rights researcher and the protocol's development communities.
+
+ * To support the protocol development process in recognizing potential
+   public interest policy impacts, as well as help to develop recommendations
+   to address those impacts adequately. 
 
 ## Outputs
 
-The research group plans on using a variety of research methods to create
-different outputs including, but not limited to:
-
- * Internet-Drafts, some of which may be published in IRTF RFC stream.
-   These will concern progress of the research group, will describe
-   methodologies considered, and will define any possible protocol
-   considerations.
-
- * Research papers for publication elsewhere concerning both policy and
-   academic topics, which can include in-depth analysis, discussions and
-   review of the human rights values embedded in the Internet architecture.
-
- * Protocol analysis to research their concrete impact on human rights and
-   the public interest.
-
-Note: HRPC does not set policy for the IETF.
+The research group may work on Internet-Drafts, some of which may be published in IRTF RFC stream,
+or research papers, for publication elsewhere, covering the topics as outlined in the objectives above.
 
 ## Membership
 
